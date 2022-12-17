@@ -55,7 +55,7 @@
 		<div class="container">
 			<div class="flex-form"> 
 				<div class="content">
-					<h1> YELL MALL - The smartest way to shops</h1><br>
+					<h1> YELL MALL - The smartest way to shop</h1><br>
 					<h2>YEL - What you want and get offers from sellers for only things you want.</h2>
 					<h4>>> Sellers, Compete with eachother and offer you best price.</h4>
 				</div>
